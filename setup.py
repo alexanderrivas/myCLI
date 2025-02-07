@@ -1,3 +1,5 @@
+"""Module providing setup data to install myCLI."""
+
 from setuptools import setup, find_packages
 
 setup(
