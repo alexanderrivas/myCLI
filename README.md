@@ -11,6 +11,13 @@ Install myCLI with the command bellow.
   cd myCLI
   pip install -e .
 ```
+
+## Uninstall
+Uninstall myCLI with the command bellow.
+
+```bash
+  pip uninstall mycli
+```
     
 ## Use/Examples
 
