@@ -19,6 +19,15 @@ mycli comando1 executar --parametro1 "valor1" --parametro2 10
 mycli comando2 listar --opcao1
 ```
 
+## VSCode extensions
+
+**Python:** A Visual Studio Code extension with rich support for the Python language.
+
+**Ruff:** A Visual Studio Code extension with support for the Ruff linter and formatter.
+
+**Pylint:** A Visual Studio Code extension with support for the Pylint linter.
+
+**Pylance:** Pylance is an extension that works alongside Python in Visual Studio Code to provide performant language support
 
 ## Reference
 
