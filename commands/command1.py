@@ -1,6 +1,9 @@
+"""Module providing access command1 actions."""
+
 import typer
 
 app = typer.Typer()
+
 
 @app.command()
 def executar(parametro1: str, parametro2: int):

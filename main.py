@@ -1,3 +1,5 @@
+"""Main Module providing access to the CLI commands."""
+
 import typer
 from commands import command1, command2
 

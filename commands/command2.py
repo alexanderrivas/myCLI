@@ -1,6 +1,9 @@
+"""Module providing access command2 actions."""
+
 import typer
 
 app = typer.Typer()
+
 
 @app.command()
 def listar(opcao1: bool = False):
