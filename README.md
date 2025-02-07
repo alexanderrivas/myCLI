@@ -1,4 +1,4 @@
-# myCLI
+# myCLI (Command Line Interface) 
 
 This project create a simple python CLI (Command Line Interface) robust and easy to maintain.
 
